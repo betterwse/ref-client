@@ -1,0 +1,127 @@
+{
+  "clientId": "test",
+  "signable": {
+    "documents": [
+      {
+        "accepted": false,
+        "document": {
+          "documentId": "663d4885-e4e3-4dd6-b91d-a0acc5daf91d",
+          "title": "Information om egenskaper och risker avseende finansiella instrument ",
+          "category": "AGREEMENT_OTHER",
+          "type": "GENERIC",
+          "contentType": "application/pdf",
+          "hash": "48b244fc11b43cf79eb0b52fa158b0cc",
+          "documentUrl": "https://api.smettermelth.nu/v1/public/document/663d4885-e4e3-4dd6-b91d-a0acc5daf91d"
+        },
+        "signableGroupId": {
+          "major": 4,
+          "minor": 3,
+          "groupId": "740930b2-144b-4467-a6f2-8be3fd20d193",
+          "groupType": "SIGN_UP"
+        }
+      },
+      {
+        "accepted": false,
+        "document": {
+          "documentId": "a3d06b53-16df-465f-830f-41be578f583e",
+          "title": "Förhandsinformation ISK",
+          "category": "PRE_SALES_AGREEMENT",
+          "type": "GENERIC",
+          "contentType": "application/pdf",
+          "hash": "ade541e49605c9b2a940c0f4b426a524",
+          "documentUrl": "https://api.smettermelth.nu/v1/public/document/a3d06b53-16df-465f-830f-41be578f583e"
+        },
+        "signableGroupId": {
+          "major": 4,
+          "minor": 3,
+          "groupId": "740930b2-144b-4467-a6f2-8be3fd20d193",
+          "groupType": "SIGN_UP"
+        }
+      },
+      {
+        "accepted": false,
+        "document": {
+          "documentId": "fe3e559b-9f43-48cf-b5b1-d4869824a96e",
+          "title": "Bästa orderutförande ",
+          "category": "AGREEMENT_OTHER",
+          "type": "GENERIC",
+          "contentType": "application/pdf",
+          "hash": "f151acc74563d8b344fdb600e8a9a3a4",
+          "documentUrl": "https://api.smettermelth.nu/v1/public/document/fe3e559b-9f43-48cf-b5b1-d4869824a96e"
+        },
+        "signableGroupId": {
+          "major": 4,
+          "minor": 3,
+          "groupId": "740930b2-144b-4467-a6f2-8be3fd20d193",
+          "groupType": "SIGN_UP"
+        }
+      },
+      {
+        "accepted": false,
+        "document": {
+          "documentId": "f0d25f1e-e6c8-4412-b79f-1b5d8138172e",
+          "title": "Allmänna villkor för diskretionär portföljförvaltning",
+          "category": "AGREEMENT_CUSTOMER",
+          "type": "GENERIC",
+          "contentType": "application/pdf",
+          "hash": "a9c7abeec7da43b5c8b1a55aebafdf8d",
+          "documentUrl": "https://api.smettermelth.nu/v1/public/document/f0d25f1e-e6c8-4412-b79f-1b5d8138172e"
+        },
+        "signableGroupId": {
+          "major": 4,
+          "minor": 3,
+          "groupId": "740930b2-144b-4467-a6f2-8be3fd20d193",
+          "groupType": "SIGN_UP"
+        }
+      }
+    ],
+    "customerKnowledge": {
+      "loansAndCredits": false,
+      "citizenship": [
+        "SE"
+      ],
+      "completedKnowledgeTests": [
+        {
+          "type": "funds",
+          "version": 1
+        },
+        {
+          "type": "stocks",
+          "version": 1
+        },
+        {
+          "type": "sri_preference",
+          "version": 1
+        }
+      ],
+      "cashSources": {
+        "INHERITANCE": true
+      },
+      "employment": "UNEMPLOYED",
+      "investmentPurpose": {
+        "LONG_TERM_SAVING": true
+      },
+      "transferSource": "SWE_BANK",
+      "depositPeriodicity": "MULTIPLE_PER_YEAR",
+      "investmentSize": "GT_MILLION",
+      "liquidAssets": "GT_MILLION",
+      "unrealizedLiquidAssets": "GT_MILLION",
+      "withdrawalPeriodicity": "MULTIPLE_PER_YEAR",
+      "ownage": true,
+      "pep": "NO",
+      "usTax": false,
+      "taxResidenceSweden": true,
+      "privacyPolicyAccept": {
+        "value": true
+      }
+    },
+    "email": "ingen@ingen.se",
+    "phone": "07012345678",
+    "requestType": "onboarding"
+  },
+  "signer": {
+    "personalNumber": "191212121212",
+    "givenName": "Tester",
+    "surname": "Testsson"
+  }
+}
